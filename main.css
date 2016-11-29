@@ -1,0 +1,43 @@
+  .inner {
+    background: #ffffcc;
+     
+  } 
+.circle {
+      width: 41px;
+      height: 41px;
+      border-radius: 50%;
+      font-size: 23px;
+      font-family: Arial;
+      font-weight: 900;
+      color: black;
+      line-height: 41px;
+      background: #ffce00;
+      text-align: center
+  }
+  
+  .circle2 {
+      width: 41px;
+      height: 41px;
+      border-radius: 50%;
+      font-size: 23px;
+      font-family: Arial;
+      font-weight: 900;
+      line-height: 41px;
+      background: #ff0027;
+      color: #ffffff;
+      text-align: center
+  }
+  
+  .circle3 {
+      width: 41px;
+      height: 41px;
+      border-radius: 50%;
+      font-size: 23px;
+      font-family: Arial;
+      font-weight: 900;
+      line-height: 41px;
+      background: #ffffcc;
+      color: #ffffcc;
+      text-align: center
+  }
+
